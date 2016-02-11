@@ -11,7 +11,9 @@ children:
 - blueprinting-tips.md
 - custom-entities.md
 - winrm/
+- ansible/
 - chef/
+- salt/
 - test/
 - advanced-example.md
 - { path: yaml-reference.md, title: YAML Blueprint Reference }
